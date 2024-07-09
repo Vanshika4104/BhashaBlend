@@ -1,2 +1,2 @@
 # BhashaBlend
-Dubbing of video into different languages
+Dubbing of downloaded video into different languages.
